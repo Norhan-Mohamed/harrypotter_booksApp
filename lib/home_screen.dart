@@ -35,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: const Color(0xFF1C1C1C),
       appBar: AppBar(
         title: const Text(
-          "Harry Potter Books",
+          "Harry Potter Books for you",
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         centerTitle: true,
